@@ -1,9 +1,9 @@
 # Changelog
 
-All notable changes to `laravel-notification-channels/clickatell` will be documented in this file
+Restful interface to connect to Clickatell. Based off of `laravel-notification-channels/clickatell`
 
-## 1.0.0 - 2016-08-14
+## 1.0.0 - 2018-01-20
 
 ### Changes
 
-- Initial implementation of the Clickatell Http client for laravel notification project
+- Initial implementation of the Clickatell RESTful client for laravel notification project
