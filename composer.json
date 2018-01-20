@@ -1,5 +1,5 @@
 {
-    "name": "unite/clickatell",
+    "name": "wavorster/clickatell",
     "description": "Clickatell RESTful notifications driver",
     "keywords": ["laravel", "notifications", "clickatell", "sms", "restful"],
     "homepage": "https://github.com/WAVorster/clickatell",
